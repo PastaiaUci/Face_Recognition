@@ -10,4 +10,4 @@ Python app that trains data and recognizes both the face and the person
 
 ## Here is a video during testing 
 
- ![ Alt text](ezgif.com-gif-maker. gif) / ! [](ezgif.com-gif-maker. gif)
+![](ezgif.com-gif-maker.gif)
