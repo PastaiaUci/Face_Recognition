@@ -10,4 +10,6 @@ Python app that trains data and recognizes both the face and the person
 
 ## Here is a video during testing 
 
-![](https://imgur.com/a/IULzy6N)
+<br><br>
+<img src="https://media.giphy.com/media/USuhrJRfJFCIKEdGDB/giphy.gif" width="720"></img>
+<br><br>
